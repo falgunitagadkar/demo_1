@@ -1,0 +1,1 @@
+This is text document created for practicing Git and Github.
